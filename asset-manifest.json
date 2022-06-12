@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.51abeffe.css",
-    "main.js": "./static/js/main.9ed923e4.js",
+    "main.css": "./static/css/main.7f47c8bc.css",
+    "main.js": "./static/js/main.7a1590fd.js",
     "static/media/background-image.jpg": "./static/media/background-image.b15852a087a5c97ea20c.jpg",
     "static/media/background-macas.jpg": "./static/media/background-macas.d4f3559be300d73df0ec.jpg",
     "static/media/icone-naSala.png": "./static/media/icone-naSala.741e1a618df6cae6dd04.png",
@@ -9,11 +9,11 @@
     "service-worker.js": "./service-worker.js",
     "static/media/Erro-404-1-1-1024x645-1.svg": "./static/media/Erro-404-1-1-1024x645-1.89e9edc92fa6ffa453e0325560a6ebb7.svg",
     "index.html": "./index.html",
-    "main.51abeffe.css.map": "./static/css/main.51abeffe.css.map",
-    "main.9ed923e4.js.map": "./static/js/main.9ed923e4.js.map"
+    "main.7f47c8bc.css.map": "./static/css/main.7f47c8bc.css.map",
+    "main.7a1590fd.js.map": "./static/js/main.7a1590fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.51abeffe.css",
-    "static/js/main.9ed923e4.js"
+    "static/css/main.7f47c8bc.css",
+    "static/js/main.7a1590fd.js"
   ]
 }
